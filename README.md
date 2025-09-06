@@ -72,12 +72,16 @@ stylefeedback.css
 
 🔹 Conclusion: 
 Task-1 allowed me to create a simple and professional portfolio website to showcase my skills, education, and projects.
+
 Task-2 allowed me to design a responsive and user-friendly e-commerce product page with dynamic features like image switching, price updates, and an add-to-cart option.
+
 Task 3: Built a Simple Navigation Menu with smooth scrolling and user-friendly design.
+
 Task 4: Designed a Contact Form with validation and a success message for better user interaction.
+
 Task 5: Developed a Blogging Platform where users can create, edit, and delete posts dynamically.
+
 Task 6: Created an Interactive Feedback Dashboard that collects user feedback, calculates average ratings, and stores responses in localStorage.
 
-JavaScript
 
 📂 Project Structurehhsdf
